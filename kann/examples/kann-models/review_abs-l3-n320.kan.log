@@ -1,0 +1,318 @@
+Version: r490
+Command line: ./textgen-r490 -t 8 -l3 -n320 -m100 -M lstm -o r490-lstm-l3-n320.kan selected-2-reviews.abs
+Read 25912 paragraphs and 24067591 characters; alphabet size 148
+epoch: 1; running cost: 2.9883 (class error: 83.29%)
+iseatto was s ar catas tha thans ens tomrand stinn chas and thon en the pon ty s an thice bins lon chon
+epoch: 2; running cost: 1.922 (class error: 54.32%)
+iseport an illust an an in this structural to disease an inthosis of pathogen that are a the responsion
+epoch: 3; running cost: 1.34315 (class error: 38.69%)
+isted to the association of many proteins are at the compounds and are composition of the strategies of
+epoch: 4; running cost: 1.18904 (class error: 35.01%)
+ish from the molecular control of the genetic method of the protein protein cholesterol the protein pro
+epoch: 5; running cost: 1.14068 (class error: 33.68%)
+ises that is a consensus molecular therapy has had been discovery that a concept of the proteins of the
+epoch: 6; running cost: 1.07654 (class error: 32.09%)
+isturine interferons in the approach to describe the endosperm complete the change of the anticoagulant
+epoch: 7; running cost: 1.05417 (class error: 31.53%)
+isac. This Review discusses the consequences of the presence of antitumour transfer is a complex or com
+epoch: 8; running cost: 1.03591 (class error: 31.03%)
+isukkahymal amyelithia is one of the pathophysiology of the pathogenic material of the colonization of 
+epoch: 9; running cost: 1.00324 (class error: 30.21%)
+istative compounds that transfer studies of the relationship between specific potential of effective th
+epoch: 10; running cost: 0.999631 (class error: 30.01%)
+ismed to the study of the molecular mechanisms involved in the field of a single potential to the prote
+epoch: 11; running cost: 0.988294 (class error: 29.77%)
+ist specific glycosylation and the first core are the adaptation for the development of disease is not 
+epoch: 12; running cost: 0.973656 (class error: 29.35%)
+iske as a result of the discovery of mechanisms that contribute to the protein complex. The effectivene
+epoch: 13; running cost: 0.961392 (class error: 29.06%)
+ished and increased frequency and the exploration of the protein factor in the cell and cell lineage in
+epoch: 14; running cost: 0.972256 (class error: 29.38%)
+isable from the search for the development of this process to a significant advanced preventive and eva
+epoch: 15; running cost: 0.951409 (class error: 28.80%)
+is. The molecular mechanisms of the gene expression of the apoptosis of the endothelium and the more ar
+epoch: 16; running cost: 0.948756 (class error: 28.69%)
+istries and the potential of the internal process of the CD2 syndrome and the protein kinase (PDK) and 
+epoch: 17; running cost: 0.944848 (class error: 28.58%)
+iswwhere Candida and Institute of the Court 1987 and 1957.  The Counter Counter and Clostridium develop
+epoch: 18; running cost: 0.943385 (class error: 28.55%)
+is) and the properties of the other multiperiods of the presence of the cell surface of the transcripti
+epoch: 19; running cost: 0.924173 (class error: 28.04%)
+isoderm) and the regulation of the genetic cell and the substantive protein that is a complex pathway t
+epoch: 20; running cost: 0.932207 (class error: 28.32%)
+isome associated with the CNS and SRE and the receptor that provides a means to the treatment of the pr
+epoch: 21; running cost: 0.920843 (class error: 27.91%)
+isonal and the same spatial state of the protein system contributes to the proton transfer of surface s
+epoch: 22; running cost: 0.910162 (class error: 27.68%)
+isled on a single-molecule level, but also has been described by the analysis of the protein structure 
+epoch: 23; running cost: 0.908033 (class error: 27.61%)
+isticated specificity) is a more complex area of pathogens to the recognition of surfaces that are regu
+epoch: 24; running cost: 0.905893 (class error: 27.51%)
+isate anti-IL-4) and IL-6 are also discussed.
+
+The interface between the environment in the secretory e
+epoch: 25; running cost: 0.90498 (class error: 27.53%)
+is) are also providing a conserved and selective complex and incorporation of a broad spectra of childr
+epoch: 26; running cost: 0.90847 (class error: 27.60%)
+isenzy-Atrich family members and the defense responses to any of the most previously distinct mechanism
+epoch: 27; running cost: 0.892041 (class error: 27.18%)
+isow-related and related processes and their role in the general population of action of the complex pr
+epoch: 28; running cost: 0.891057 (class error: 27.13%)
+isms can be controversial, and whether the complex mechanisms of density of the promoter and the genes 
+epoch: 29; running cost: 0.887566 (class error: 27.04%)
+ishorely interactions, a complex membrane protein (PPP) to the cell cycle controlling the tissue struct
+epoch: 30; running cost: 0.890497 (class error: 27.10%)
+ising the prevalence of metastatic control of antigens (ADAs) are subject to response to disease and pr
+epoch: 31; running cost: 0.873645 (class error: 26.56%)
+ished the PDC are the most common conditions of the neuronal process of the action of the plasma membra
+epoch: 32; running cost: 0.87661 (class error: 26.75%)
+ismental and pathogenic mechanisms that control the distinct process of adjuvant therapies to manage th
+epoch: 33; running cost: 0.875784 (class error: 26.67%)
+is described a major cause of malignancy and metabolism and development of new therapeutic strategies a
+epoch: 34; running cost: 0.868666 (class error: 26.48%)
+is and can be used to establish the properties of the molecular basis of the mechanisms that underlie t
+epoch: 35; running cost: 0.873587 (class error: 26.68%)
+isard and the effects of cognitive information in the development of novel control of the therapeutic a
+epoch: 36; running cost: 0.873326 (class error: 26.60%)
+ism) is a critical source of the microorganism and the development of the active component of the immun
+epoch: 37; running cost: 0.869514 (class error: 26.53%)
+ism) to the genome of the microbial model of a neurodegenerative disease that is considered to be a sma
+epoch: 38; running cost: 0.867165 (class error: 26.45%)
+isrms, and how the development of these pathogens are also appropriate for the proper extent of the thr
+epoch: 39; running cost: 0.861906 (class error: 26.30%)
+isvers) for patients with systemic lupus erythematosus (SLE) is a major contributory to the treatment o
+epoch: 40; running cost: 0.85555 (class error: 26.11%)
+ising the active site of the apical cell and the cellular control of self-assembly and its receptor or 
+epoch: 41; running cost: 0.86486 (class error: 26.41%)
+ism) is the most common cause of athletes that are common to the development of cancer development.
+
+Th
+epoch: 42; running cost: 0.850071 (class error: 26.00%)
+isque) disease was developed in the field of research and the relationship between congenital heart fai
+epoch: 43; running cost: 0.852338 (class error: 25.97%)
+isosphase), including selective and specific and special emphasis on the interaction of the respiratory
+epoch: 44; running cost: 0.857588 (class error: 26.16%)
+ishrezing and are so that the complex contribution of the pathogenic fine chap is to increase the progr
+epoch: 45; running cost: 0.848708 (class error: 25.94%)
+ises about the mechanisms that are commonly associated with a similar response, and highlight the most 
+epoch: 46; running cost: 0.85233 (class error: 26.05%)
+ises among an anticancer strategy to support the structure of the support of the protein to provide a p
+epoch: 47; running cost: 0.842967 (class error: 25.77%)
+ishural and long-term desirable countries and the following of a large spatial to the process of the co
+epoch: 48; running cost: 0.845876 (class error: 25.81%)
+ishers to the development of a specific inhibitor of the adult mammalian cell. This Review describes th
+epoch: 49; running cost: 0.844792 (class error: 25.78%)
+isoskety and hereditary diseases. The provision of the antibody and frequency are now available to prev
+epoch: 50; running cost: 0.844094 (class error: 25.85%)
+is) and the discovery of these diseases with a survival biase and the development of relatively little 
+epoch: 51; running cost: 0.844417 (class error: 25.85%)
+is) of the ALS and SPIN2, although it is possible that the appending and long-term sequencing of the tu
+epoch: 52; running cost: 0.845182 (class error: 25.85%)
+is designation of the physical properties of the internal microenvironment in the course of a minority 
+epoch: 53; running cost: 0.837511 (class error: 25.62%)
+ists from the interactions between the protein and the regulatory protein that is associated with light
+epoch: 54; running cost: 0.83765 (class error: 25.64%)
+isly, characterized by the restenosis and cardiac exposure to a single species of small molecules in th
+epoch: 55; running cost: 0.83973 (class error: 25.67%)
+issed and actively reflected in the period and the experience of the newly emerging data from the expla
+epoch: 56; running cost: 0.831435 (class error: 25.45%)
+is and complete income and in the control of sexual interactions and how the sexual discovery of the po
+epoch: 57; running cost: 0.831018 (class error: 25.47%)
+istic, and dispersal and increased patient efficacy is the most common cause of mental illness. An incr
+epoch: 58; running cost: 0.838169 (class error: 25.66%)
+isant), the review examines the molecular mechanisms of the biological control of the autoimmunity of t
+epoch: 59; running cost: 0.823858 (class error: 25.26%)
+ist) of the vitamin D is required for the presence of diffuse tests of the patient. In this Review, we 
+epoch: 60; running cost: 0.822683 (class error: 25.20%)
+ism ADL as a new therapeutic target for therapeutic intervention. Although the treatment of cancer is a
+epoch: 61; running cost: 0.836433 (class error: 25.64%)
+ishing the Delenoma (Leber, Escherichia coli, and Endocytosis), and the substrate is a common condition
+epoch: 62; running cost: 0.823717 (class error: 25.26%)
+is, clinical trials and on the effects of therapy to treat antipsychotic drugs. These studies have exam
+epoch: 63; running cost: 0.824401 (class error: 25.25%)
+iscrial antibiotics to enhance the effects of antibiotics and therapeutic strategies to treat the disea
+epoch: 64; running cost: 0.821931 (class error: 25.27%)
+isation) and the same diagnostics in the United States and has a formulated appreciation of the complex
+epoch: 65; running cost: 0.820992 (class error: 25.15%)
+isants, the most common complications of the pathogen may be restricted to the behavior of the populati
+epoch: 66; running cost: 0.82213 (class error: 25.19%)
+ismal, and progressive consciousness in the context of individual processes in the past 25 years. The c
+epoch: 67; running cost: 0.817159 (class error: 25.07%)
+isvment and decreased morbidity and mortality. The disease is likely to be a major pathophysiological p
+epoch: 68; running cost: 0.819167 (class error: 25.09%)
+is, the mechanisms by which the cytokine complexes in the cytoplasmic complexes of the cytokine can be 
+epoch: 69; running cost: 0.825769 (class error: 25.24%)
+ishing (AR) workers of the problem of access to any complications as well as the proposal of considerat
+epoch: 70; running cost: 0.820857 (class error: 25.15%)
+is) of the tumor microenvironment is considered to be determined. The possible role of the immune syste
+epoch: 71; running cost: 0.810853 (class error: 24.87%)
+isome--which responds to the disposal of productive production that results from complex diseases and a
+epoch: 72; running cost: 0.812851 (class error: 24.89%)
+ison in more than a decade and in the prevention of these diseases. Progress in the field of the diseas
+epoch: 73; running cost: 0.81003 (class error: 24.83%)
+isodaomycehematic and neurodegenerative diseases have been increasingly considered to be a multiple org
+epoch: 74; running cost: 0.807028 (class error: 24.76%)
+isocyte), and the expression of these proteins is stable and linked to the protein movement of proteins
+epoch: 75; running cost: 0.816673 (class error: 25.01%)
+isolamin is a complex and complex and specialized protein family of proteins as a protein fold. The cel
+epoch: 76; running cost: 0.810217 (class error: 24.84%)
+isncepholog) that act as a component of the cell through the intestinal epithelium. The strength of the
+epoch: 77; running cost: 0.812526 (class error: 24.88%)
+istent), and most of these systems for humans. The control of cellular signalling is controlled by the 
+epoch: 78; running cost: 0.812475 (class error: 24.88%)
+isis is a common cause of mTOR in the context of the disease that is not only translationally and the m
+epoch: 79; running cost: 0.812782 (class error: 24.89%)
+isage associated with a general population of patients with chronic minimum risk factors and increases 
+epoch: 80; running cost: 0.815594 (class error: 24.98%)
+ishin) has been proposed by the development of new therapies to treat its autoimmune diseases. The abil
+epoch: 81; running cost: 0.818176 (class error: 25.06%)
+is (AAA) has been confirmed by the application of therapeutic agents for the prevention of cancer. Howe
+epoch: 82; running cost: 0.802662 (class error: 24.58%)
+ishizoopolar and mast cells, and the intracellular membrane pathways that are stimulated by the complem
+epoch: 83; running cost: 0.812017 (class error: 24.84%)
+is) and other cancers that are related to the disease and subsequent state of the disease. The current 
+epoch: 84; running cost: 0.809118 (class error: 24.80%)
+isgmissis, which is a functional cytokine that involves a second messenger of many other pathogens that
+epoch: 85; running cost: 0.806514 (class error: 24.73%)
+ishmamema-D), and the molecular basis of the intracellular signaling pathways that may be involved in t
+epoch: 86; running cost: 0.796267 (class error: 24.41%)
+isher, is the increased risk of development of metastases and in patients with mild depression. The pos
+epoch: 87; running cost: 0.792493 (class error: 24.29%)
+isature) and the implications for cardiovascular risk in patients with MS. The protein transporter path
+epoch: 88; running cost: 0.800997 (class error: 24.61%)
+ishosase and fibrillation of the community of Calcium surgeons of adults with chronic kidney disease (C
+epoch: 89; running cost: 0.795614 (class error: 24.44%)
+isists of the world as part of the pathogenic and peripheral consequences of the inflammatory response 
+epoch: 90; running cost: 0.794014 (class error: 24.36%)
+isiatric)) are associated with metabolic disorders and are associated with a consequence of the correct
+epoch: 91; running cost: 0.79661 (class error: 24.42%)
+iss and renal failure, and the mechanism of activity in the hemodialysis of the gastrointestinal tract.
+epoch: 92; running cost: 0.798738 (class error: 24.52%)
+istively) as a model to provide a prototype in the clinic and the effects of therapy and the interpreta
+epoch: 93; running cost: 0.803564 (class error: 24.68%)
+iss by the antibiotic drug and glucose transport and the adverse effects of complex diseases and in the
+epoch: 94; running cost: 0.799119 (class error: 24.49%)
+isence and is a complex process involving the treatment of patients with advanced prostate cancer (CRC)
+epoch: 95; running cost: 0.799214 (class error: 24.52%)
+ised with the development of new therapeutic targets. However, the preparedness of these technologies, 
+epoch: 96; running cost: 0.790722 (class error: 24.34%)
+ismmetry) is a subject of intense research on the effects of studies of the epidemiology of the disease
+epoch: 97; running cost: 0.796064 (class error: 24.43%)
+ised and are also progressively considered an attractive target for the treatment of patients with NAFL
+epoch: 98; running cost: 0.792067 (class error: 24.28%)
+isterifical segment of many patients with CKD, and the personnel of the patient with a child born is as
+epoch: 99; running cost: 0.799509 (class error: 24.51%)
+isable) enzymes is associated with an increased risk of acute inflammation in the context of the trigly
+epoch: 100; running cost: 0.78791 (class error: 24.18%)
+ish, and the interaction between these molecules in the regulation of the chromatin structure and enabl
+263729.25user 4.78system 9:37:13elapsed 761%CPU (0avgtext+0avgdata 2951468maxresident)k
+16inputs+1807224outputs (0major+521193minor)pagefaults 0swaps
+Version: r490
+Command line: ./textgen-r490 -t 8 -i r490-lstm-l3-n320.kan -r 1e-4 -o r490-lstm-l3-n320r.kan selected-2-reviews.abs
+Read 25912 paragraphs and 24067591 characters; alphabet size 148
+epoch: 1; running cost: 0.79478 (class error: 24.37%)
+isoliomy) and the consequences of the sex determination of the protein complex. Although recent studies
+epoch: 2; running cost: 0.789224 (class error: 24.20%)
+isward National Institutes of Plant Picopuse and the Court also developed the provision of a fetus as a
+epoch: 3; running cost: 0.788125 (class error: 24.20%)
+ished and whether the age of the participant is to be made until enteric to the patient. 
+
+The purpose 
+epoch: 4; running cost: 0.786037 (class error: 24.10%)
+ismes of the stroke of the skin or the enteric nervous system (CNS) are associated with a significant a
+epoch: 5; running cost: 0.785057 (class error: 24.05%)
+isually, the Minister of Agricultural Annual Reviews New America in 1957 has been reported to develop i
+epoch: 6; running cost: 0.778179 (class error: 23.92%)
+iscism) and the possibility that the molecular mechanisms of the expression of the nuclear regulatory p
+epoch: 7; running cost: 0.784139 (class error: 24.10%)
+ism and the study of the response to the experience of biological systems. The review focuses on the cu
+epoch: 8; running cost: 0.782823 (class error: 24.02%)
+ished both age-associated and chemical processes have been developed and explored by the explanation of
+epoch: 9; running cost: 0.786094 (class error: 24.08%)
+ister) and the interactions of the environment and the production process that results in the developme
+epoch: 10; running cost: 0.769956 (class error: 23.62%)
+ishouse and glucose-lowering therapies is controversial. This Review highlights the clinical applicatio
+epoch: 11; running cost: 0.785691 (class error: 24.07%)
+ishrously described) and dependent on the spontaneous contact of the spore surface and the supplementat
+epoch: 12; running cost: 0.778124 (class error: 23.82%)
+is and is involved in the pathogenesis of both CD4(+) T cells, and that the pathogenesis of early infla
+epoch: 13; running cost: 0.769279 (class error: 23.62%)
+ism and the risks of prevention of a variety of diseases. Evidence from the Review of Physiology Volume
+epoch: 14; running cost: 0.77178 (class error: 23.76%)
+ished by T cells and T cells are controlled by the T cell receptor (TCR) signalling pathway. The recent
+epoch: 15; running cost: 0.783417 (class error: 24.05%)
+iscellar dexamethasone (NODAT) inhibitors as well as the relationship between the anti-CD20 and non-sma
+epoch: 16; running cost: 0.772152 (class error: 23.70%)
+isonates in the United States in the United States, which is the first step in the area of program chan
+epoch: 17; running cost: 0.776932 (class error: 23.81%)
+is)) to prevent the development of the prevention and treatment of bone mass and the progression of HIV
+epoch: 18; running cost: 0.773812 (class error: 23.70%)
+isa, and altered activation of the intestinal microbiota and the inflammatory response. The most common
+epoch: 19; running cost: 0.780215 (class error: 23.91%)
+ist) of the formation of the endoplasmic reticulum (ER) and the endoplasmic reticulum (ER). The prevale
+epoch: 20; running cost: 0.775789 (class error: 23.80%)
+ishrously assessed the proportion of a serious and decreased risk of developing conditions and responsi
+epoch: 21; running cost: 0.772532 (class error: 23.70%)
+ist and outcome to enhance the treatment of cancer and the results of these therapies and therapeutic s
+epoch: 22; running cost: 0.770358 (class error: 23.58%)
+is and health care is an important therapeutic target for mental health and disease and the increased u
+epoch: 23; running cost: 0.766542 (class error: 23.52%)
+ishetylation of the protein complex (PCP) and SPs in the process of replication, as well as the control
+epoch: 24; running cost: 0.772 (class error: 23.68%)
+ised changes) are also discussed. The pathogen in the early 1980s has been the focus of early studies o
+epoch: 25; running cost: 0.772114 (class error: 23.71%)
+iscular and experimental tests. Here, we review the current understanding of the mechanisms of the inte
+epoch: 26; running cost: 0.769102 (class error: 23.63%)
+is. The recent developments in the control of CD4(+) T cells and their role in the development of the d
+epoch: 27; running cost: 0.771167 (class error: 23.60%)
+isual)) have been selected for the fertilization of the organizational constraints in the region. The s
+epoch: 28; running cost: 0.770389 (class error: 23.62%)
+ishhed, and in which changes in cyclin-dependent kinase activity in the cytosol in the inner membrane i
+epoch: 29; running cost: 0.770414 (class error: 23.64%)
+ishooutothalamo--are not a fundamental tool for the development of new therapies. However, the clinical
+epoch: 30; running cost: 0.776692 (class error: 23.84%)
+ished in the context of biological systems and their important roles in microbial differentiation. This
+epoch: 31; running cost: 0.773553 (class error: 23.72%)
+ism for health, and the proximal tubule. The pathogen reveals that the primary setting of contractile i
+epoch: 32; running cost: 0.770333 (class error: 23.65%)
+is to children and men and women, and the conditions of the experience of people are common and in comm
+epoch: 33; running cost: 0.782469 (class error: 23.97%)
+isome of the constitutional and a secondary preference for the contractile species of the individual. T
+epoch: 34; running cost: 0.759619 (class error: 23.32%)
+isshop and the provision of the Decree Revis Reviews Immunology Volume 68 is January 06, 2017. Please s
+epoch: 35; running cost: 0.776062 (class error: 23.75%)
+isr-10 diseases has been proposed to control the expression of the major pathogenic mechanisms of actio
+epoch: 36; running cost: 0.770325 (class error: 23.61%)
+iscassional contrast are discussed in this Review. The results of these approaches are providing insigh
+epoch: 37; running cost: 0.773295 (class error: 23.74%)
+istan disease or a more complex pathological state that defines the management of atrial fibrillation. 
+epoch: 38; running cost: 0.763078 (class error: 23.43%)
+iso and clinical trials have highlighted the importance of these mechanisms to increase the response to
+epoch: 39; running cost: 0.766692 (class error: 23.54%)
+ismales, yet the advent of a second state of the period of provision of the Court held that the promoti
+epoch: 40; running cost: 0.767632 (class error: 23.55%)
+isch) for the US Advisory Council in 1926 were recognized as a serious program for mental health progra
+epoch: 41; running cost: 0.768788 (class error: 23.60%)
+ish has progressed to the potential of the patient population in the context of the prevalence of coron
+epoch: 42; running cost: 0.769671 (class error: 23.61%)
+is). 
+
+This article reviews the community environment and the etiology of the disease that is a poor pr
+epoch: 43; running cost: 0.763527 (class error: 23.42%)
+is of CD4+ T cells in the extracellular matrix and in the nucleus of the immune system. The mechanism o
+epoch: 44; running cost: 0.767262 (class error: 23.56%)
+isc and laboratory competence. A conceptual framework for the provision of the technique is also discus
+epoch: 45; running cost: 0.762208 (class error: 23.36%)
+isation of the therapeutic strategy is not clearly important in the development of novel therapeutic st
+epoch: 46; running cost: 0.763471 (class error: 23.43%)
+is0' therapy have provided insights into the role of these proteins in the initiation and progression o
+epoch: 47; running cost: 0.776042 (class error: 23.82%)
+ists and clinical applications of DNA methylation have provided new insights into the pathogenesis of m
+epoch: 48; running cost: 0.77407 (class error: 23.75%)
+is, the risk of progression of diabetes mellitus and decreased cardiovascular disease is considered a s
+epoch: 49; running cost: 0.767569 (class error: 23.53%)
+isa-axial SpA and SDK-TERT-III antibodies have been identified as a trial-mediated susceptibility to th
+epoch: 50; running cost: 0.763151 (class error: 23.37%)
+ist), with a complex and compared understanding of the role of these patients in the United States. The
+132974.67user 13.89system 4:58:50elapsed 741%CPU (0avgtext+0avgdata 3910756maxresident)k
+0inputs+903600outputs (0major+531124minor)pagefaults 0swaps
