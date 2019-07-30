@@ -972,8 +972,8 @@ const float *kann_apply1(kann_t *a, float *x)
 	if (i_out < 0) return 0;
 	kann_set_batch_size(a, 1);
 	kann_feed_bind(a, KANN_F_IN, 0, &x);
-    printf("Starting primary evaluation procedure...\n");
+    printf("Region of Interest Begin\n");
 	kad_eval_at(a->n, a->v, i_out);
-    printf("Finished primary evaluation procedure.\n");
+    printf("Region of Interest End\n");
 	return a->v[i_out]->x;
 }
