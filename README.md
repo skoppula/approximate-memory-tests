@@ -7,7 +7,6 @@ cd kann; make; cd examples
 ```
 This modified inference script evaluates one image (the first image in the MNIST test set).
 
-The region of interest is the function call performing the inference: https://github.com/skoppula/approximate-memory-tests/blob/master/kann/kann.c#L976
-There are no system calls in this function, as verified using strace.
+The region of interest is the function call performing the inference: https://github.com/skoppula/approximate-memory-tests/blob/master/kann/kann.c#L976. There are print statement delineating the RoI. There are also no system calls in this region of interest, as verified using strace.
 
 The original KANN library can be found at https://github.com/attractivechaos/kann/.
